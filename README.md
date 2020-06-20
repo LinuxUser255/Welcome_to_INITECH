@@ -1,3 +1,6 @@
+#  Update to initech.sh
+If you've seen the movie Office Space, then this will make sense.
+This exercise is intended as a funny way to learn Bash, and identify bugs in code.
 # Welcome_to_INITECH
 INITECH has encoutered some "legal issues" with Microsoft and is transitioning to a Linux Enviroment.
 They need your Help.
