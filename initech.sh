@@ -38,10 +38,3 @@ fi
 # Set the password.
 echo "${USER_NAME}" 
 
-#Now the challenge.
-#Put a bug in Lumbergh's account :)
-#Fork it, edit, pull it.
-#Remember. This is just meant to be a fun exercise in learning Bash Scripting and how to identify buggy code.
-
-
-
